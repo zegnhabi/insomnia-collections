@@ -1,0 +1,34 @@
+_id: req_4c5faf1aa56f4675b3751f7af9f49101
+type: Request
+parentId: fld_f5deda5695fc431cba313c2ae9d9f0a4
+modified: 1650866290905
+created: 1650863829659
+url: https://nr.zegnhabi.xyz/products
+name: Create Product
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"name": " MAVIDOL KETOROLACO-1",
+    		"barcode": "132456789A1-7",
+    		"description": " MAVIDOL KETOROLACO-1",
+    		"quantity": 1,
+    		"price": 99.76,
+    	"image": null
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f66c69dd43f6467ba62a9b5da2335306
+authentication: {}
+metaSortKey: -1650849275000
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

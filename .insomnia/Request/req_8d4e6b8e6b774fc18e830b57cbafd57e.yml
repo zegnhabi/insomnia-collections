@@ -1,0 +1,21 @@
+_id: req_8d4e6b8e6b774fc18e830b57cbafd57e
+type: Request
+parentId: fld_f5deda5695fc431cba313c2ae9d9f0a4
+modified: 1650862427774
+created: 1650862423647
+url: https://nr.zegnhabi.xyz/products/1137
+name: List Products By ID Fail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1650849274950
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

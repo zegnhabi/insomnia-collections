@@ -1,0 +1,21 @@
+_id: req_1eccc5f464f24b778cf2383a0a1b8c22
+type: Request
+parentId: fld_f5deda5695fc431cba313c2ae9d9f0a4
+modified: 1650849321278
+created: 1650849275025
+url: https://nr.zegnhabi.xyz/products
+name: List Products
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1650849275025
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

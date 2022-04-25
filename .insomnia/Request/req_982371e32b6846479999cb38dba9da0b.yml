@@ -1,0 +1,21 @@
+_id: req_982371e32b6846479999cb38dba9da0b
+type: Request
+parentId: fld_f5deda5695fc431cba313c2ae9d9f0a4
+modified: 1650860682479
+created: 1650849572778
+url: https://nr.zegnhabi.xyz/products/132456789A2
+name: List Products By Barcode
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1650849274925
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
